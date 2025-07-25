@@ -1,16 +1,35 @@
-# my_app
+# 💸 Send Money App (Flutter)
 
-A new Flutter project.
+A beautifully designed Flutter application that allows users to send money securely and smoothly. This app demonstrates form validation, state management, custom widgets, and animated transitions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✅ Recipient name and amount input
+- ✅ Dropdown for selecting payment method
+- ✅ Toggle favorite switch for transactions
+- ✅ Form validation with visual feedback
+- ✅ Reusable custom button widget
+- ✅ Smooth animations using `AnimatedContainer` and `PageRouteBuilder`
+- ✅ Clean and responsive UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🛠️ Built With
+
+- [Flutter](https://flutter.dev/)
+- Dart
+- Material Design
+- Git + GitHub
+
+---
+
+## 🏗️ How to Run the Project
+
+1. **Clone the repository**
+```bash
+git clone https://github.com/YOUR_USERNAME/send_money_flutter.git
+cd send_money_flutter
+
